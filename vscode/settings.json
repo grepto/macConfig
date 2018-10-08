@@ -2,7 +2,7 @@
     "terminal.integrated.fontFamily": "Hack Nerd Font",
     "terminal.integrated.fontSize": 14,
     "terminal.integrated.fontWeightBold": "normal",
-    "workbench.colorTheme": "Monokai Dimmed",
+    "workbench.colorTheme": "Solarized Dark",
     "workbench.statusBar.feedback.visible": false,
     "files.defaultLanguage": "js",
     "editor.fontSize": 12,
