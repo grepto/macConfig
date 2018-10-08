@@ -22,7 +22,7 @@ POWERLEVEL9K_PROMPT_ADD_NEWLINE=true
 
 
 #ALIASES
-alias lc='colorls -lA --sd'
+alias lc='colorls -lA --sd --gs'
 alias clr='clear'
 
 
