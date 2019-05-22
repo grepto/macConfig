@@ -8,6 +8,7 @@ POWERLEVEL9K_MODE='nerdfont-complete'
 
 # Customise the Powerlevel9k prompts
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(
+  virtualenv
   root_indicator
   dir
   vcs
