@@ -10,5 +10,21 @@
     "markdown.extension.print.absoluteImgPath": false,
     "editor.tabCompletion": "on",
     "emmet.excludeLanguages": [],
-    "emmet.includeLanguages": {"markdown": "html"},
+    "emmet.includeLanguages": {
+        "markdown": "html"
+    },
+    "mssql.applyLocalization": true,
+    "mssql.copyIncludeHeaders": true,
+    "mssql.connections": [
+        {
+            "server": "server3-local.dwpr.ru,8384",
+            "database": "bspbins",
+            "authenticationType": "SqlLogin",
+            "user": "sa",
+            "password": "",
+            "emptyPasswordInput": false,
+            "savePassword": true,
+            "profileName": "dwpr_dev"
+        }
+    ],
 }
